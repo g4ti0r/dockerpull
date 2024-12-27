@@ -1,6 +1,6 @@
 # 拉取
 ```bash
-docker pull ghcr.nju.edu.cn/<your-username>/<your-image>:<tag>
+docker pull ghcr.nju.edu.cn/g4ti0r/<your-image>:<tag>
 ```
 目前已有的镜像
 - nginx
@@ -8,6 +8,7 @@ docker pull ghcr.nju.edu.cn/<your-username>/<your-image>:<tag>
 - ubuntu
 - python
 - redis
+- python:3.10-slim
 
 
 # 获取新镜像
