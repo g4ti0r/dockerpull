@@ -9,6 +9,7 @@ docker pull ghcr.nju.edu.cn/g4ti0r/<your-image>:<tag>
 - python
 - redis
 - python:3.10-slim
+- uptime-kuma
 
 
 # 获取新镜像
