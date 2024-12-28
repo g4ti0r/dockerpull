@@ -10,6 +10,7 @@ docker pull ghcr.nju.edu.cn/g4ti0r/<your-image>:<tag>
 - redis
 - python:3.10-slim
 - uptime-kuma
+- gitlab
 
 
 # 获取新镜像
