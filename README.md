@@ -11,6 +11,7 @@ docker pull ghcr.nju.edu.cn/g4ti0r/<your-image>:<tag>
 - python:3.10-slim
 - uptime-kuma
 - gitlab
+- gpustack
 
 
 # 获取新镜像
